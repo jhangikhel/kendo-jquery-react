@@ -10,6 +10,9 @@ body{margin:0px; padding:0px; background:#000; color:#fff}
 .header .navbar-default{background: #000; border:0px; margin-bottom: 0px;}
 .header .navbar-header {  justify-content: flex-start;  width: 100%; color:#fff;}
 .header .navbar-header .navbar-brand{color:#fff}
+
+.header nav.navbar .btn{color:#000 !important}
+
 .tabbtns{position: relative;top: -60px; max-width: 500px; float: right;}
 .tabbtns .btn-default{color:#000 !Important; margin:0px 10px;}
 .carousel-inner { height: 80vh; min-height: 350px;  padding: 0px 30px; }
