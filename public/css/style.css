@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+body{margin:0px; padding:0px; background:#000; color:#fff}
+
+
+.tabbtns .btn{ color:#000}
+
+/*-- services --*/
+.header{background: #000; border-bottom:1px #fff solid; margin-bottom: 20px;}
+.header .navbar-default{background: #000; border:0px; margin-bottom: 0px;}
+.header .navbar-header {  justify-content: flex-start;  width: 100%; color:#fff;}
+.header .navbar-header .navbar-brand{color:#fff}
+.tabbtns{position: relative;top: -60px; max-width: 500px; float: right;}
+.tabbtns .btn-default{color:#000 !Important; margin:0px 10px;}
+.carousel-inner { height: 80vh; min-height: 350px;  padding: 0px 30px; }
+
+.nav-tabs > li > a{ color:#fff}
+.nav-tabs > li:hover > a, .nav-tabs > li > a:hover{color:#000}
+ 
+
+  .slide-btn{position: absolute; z-index: 999;       top: 50%;    display: block;    width: 50px;    height: 50px;     background-repeat: no-repeat !important;     background-size: 40% !important;     background-position: center center !important;    }
+  .slide-btn.prev{left:0; background: #fff url("../img/Arrow-icon-prv.png");}
+  .slide-btn.next{right:0px; background: #fff url("../img/Arrow-icon-next.png");}
+
+  .tab-content{;}
+
+  .table tr td{color:#fff}
+  
+ 
+
